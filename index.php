@@ -1,6 +1,5 @@
 
-        <?php include("Backend/includes/header.php")?>       
-
+<?php include("Backend/includes/header.php")?>
         <div class="container">
           <div class="page-inner">
             <div
