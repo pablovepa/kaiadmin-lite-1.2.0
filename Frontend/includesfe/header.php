@@ -92,8 +92,7 @@
                 <div class="collapse" id="forms">
                   <ul class="nav nav-collapse">
                     <li>
-                      <a href="/G1/kaiadmin-lite-1.2.0/Frontend/forms/forms.php">
-
+                      <a href="forms/forms.php">
                         <span class="sub-item">Basic Form</span>
                       </a>
                     </li>
