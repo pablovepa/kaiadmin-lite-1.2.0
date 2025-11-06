@@ -1,10 +1,10 @@
-<?php include("includes/header.php")?>
+<?php include("includesbe/header.php")?>
 <?php include("db.php")?>
 
 <div class ="card text-center">
     <div class="card-body">
-        <h1 class="card-title">CREAR REGISTRO</h1>
-        <p class="card-text">Ingrese los datos a continuación</p>
+        <h1 class="card-title">Registrar Bodega</h1>
+        <p class="card-text">Ingresar Datos</p>
 
         <form action="save.php" method="POST">
             <div class="form-group">
