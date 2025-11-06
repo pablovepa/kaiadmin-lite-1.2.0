@@ -1,4 +1,5 @@
-<?php include("includesbe/header.php")?>
+<?php include("../includesbe/header.php"); ?>
+
 <div class="container p-12">
     <div class = "row">
         <div class="col-md-12">
@@ -17,7 +18,7 @@
                                 </div>
                             </div>
                         </div>
-        
+                         <div class="row">
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
@@ -63,4 +64,5 @@
         </div>
     </div>
 </div>
-<?php include("includesbe/footer.php"); ?>
+
+<?php include("../includesbe/footer.php"); ?>
