@@ -42,9 +42,9 @@
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">CREAR ORDEN DE VENTA</h5>
+                                    <h5 class="card-title">CREAR COMPRAS</h5>
                                     <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
-                                    <a href="Crud_orden_venta/indexov.php" class="btn btn-primary">Ingresar</a>
+                                    <a href="Crud_compras/indexco.php" class="btn btn-primary">Ingresar</a>
                                 </div>
                             </div>
                         </div>

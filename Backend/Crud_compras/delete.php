@@ -3,7 +3,7 @@
 
     <div class ="card text-center">
         <div class="card-body">
-            <h1 class="card-title">ELIMINAR ORDEN DE VENTA</h1>
+            <h1 class="card-title">ELIMINAR COMPRA</h1>
             <p class="card-text">Los siguientes son los datos guardados hasta el momento:</p>
          
             <div class="table-responsive-sm">

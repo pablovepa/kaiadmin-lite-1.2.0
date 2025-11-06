@@ -14,7 +14,7 @@
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">CREAR ORDEN DE VENTA</h5>
+                                    <h5 class="card-title">CREAR COMPRA</h5>
                                     <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
                                     <a href="create.php" class="btn btn-primary">Ingresar</a>
                                 </div>
@@ -23,7 +23,7 @@
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">VER ORDENES DE VENTA</h5>
+                                    <h5 class="card-title">VER COMPRAS</h5>
                                     <p class="card-text">Esta opción permite LEER un registro de la BDD</p>
                                     <a href="read.php" class="btn btn-primary">Leer</a>
                                 </div>
@@ -35,7 +35,7 @@
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">ACTUALIZAR ORDEN DE VENTA</h5>
+                                    <h5 class="card-title">ACTUALIZAR COMPRA</h5>
                                     <p class="card-text">Esta opción permite ACTUALIZAR un registro de la BDD</p>
                                     <a href="update.php" class="btn btn-primary">Actualizar</a>
                                 </div>
@@ -44,7 +44,7 @@
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">ELIMINAR ORDEN DE VENTA</h5>
+                                    <h5 class="card-title">ELIMINAR COMPRA</h5>
                                     <p class="card-text">Esta opción permite BORRAR un registro de la BDD</p>
                                     <a href="delete.php" class="btn btn-primary">Borrar</a>
                                 </div>

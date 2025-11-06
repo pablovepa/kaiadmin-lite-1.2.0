@@ -3,7 +3,7 @@
 
 <div class ="card text-center">
     <div class="card-body">
-        <h1 class="card-title">Registrar Orden de Venta</h1>
+        <h1 class="card-title">Registrar compra</h1>
         <p class="card-text">Ingresar Datos</p>
 
         <form action="save.php" method="POST">
