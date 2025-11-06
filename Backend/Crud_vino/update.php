@@ -1,9 +1,9 @@
-<?php include("includes/header.php")?>
+<?php include("../includesbe/header.php"); ?>
 <?php include("db.php")?>
 
     <div class ="card text-center">
         <div class="card-body">
-            <h1 class="card-title">ACTUALIZAR DATOS</h1>
+            <h1 class="card-title">ACTUALIZAR VINO</h1>
             <p class="card-text">Los siguientes son los datos guardados hasta el momento:</p>
          
             <div class="table-responsive-sm">
@@ -51,4 +51,4 @@ where u.tipo_usuario=tu.id";
         </div>
     </div> 
 
-<?php include("includes/footer.php")?>
+<?php include("../includesbe/footer.php"); ?>

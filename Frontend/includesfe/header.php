@@ -92,7 +92,8 @@
                 <div class="collapse" id="forms">
                   <ul class="nav nav-collapse">
                     <li>
-                      <a href="forms/forms.php">
+                      <a href="/G1/kaiadmin-lite-1.2.0/Frontend/forms/forms.php">
+
                         <span class="sub-item">Basic Form</span>
                       </a>
                     </li>
@@ -170,7 +171,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../../documentation/index.">
+                <a href="../../documentation/index.html">
                   <i class="fas fa-file"></i>
                   <p>Documentation</p>
                   <span class="badge badge-secondary">1</span>
@@ -238,12 +239,12 @@
           <div class="main-header-logo">
             <!-- Logo Header -->
             <div class="logo-header" data-background-color="dark">
-              <a href="index.php" class="logo">
+              <a href="index.html" class="logo">
                 <img
-                  src="assets/img/kaiadmin/iconoG1.png"
+                  src="assets/img/kaiadmin/logo_light.svg"
                   alt="navbar brand"
                   class="navbar-brand"
-                  height="70"
+                  height="20"
                 />
               </a>
               <div class="nav-toggle">

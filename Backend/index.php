@@ -13,7 +13,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">CREAR CATEGORÍA</h5>
                                     <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
-                                    <a href="Crud_categoria/create.php" class="btn btn-primary">Ingresar</a>
+                                    <a href="Crud_categoria/indexca.php" class="btn btn-primary">Ingresar</a>
                                 </div>
                             </div>
                         </div>
@@ -30,9 +30,9 @@
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">LEER</h5>
-                                    <p class="card-text">Esta opción permite LEER un registro de la BDD</p>
-                                    <a href="read.php" class="btn btn-primary">Leer</a>
+                                    <h5 class="card-title">CREAR CLIENTES</h5>
+                                    <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
+                                    <a href="Crud_clientes/indexcl.php" class="btn btn-primary">Ingresar</a>
                                 </div>
                             </div>
 
@@ -42,18 +42,36 @@
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">ACTUALIZAR</h5>
-                                    <p class="card-text">Esta opción permite ACTUALIZAR un registro de la BDD</p>
-                                    <a href="update.php" class="btn btn-primary">Actualizar</a>
+                                    <h5 class="card-title">CREAR ORDEN DE VENTA</h5>
+                                    <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
+                                    <a href="Crud_orden_venta/indexov.php" class="btn btn-primary">Ingresar</a>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-sm-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">CREAR USUARIO</h5>
+                                    <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
+                                    <a href="Crud_usuarios/indexus.php" class="btn btn-primary">Ingresar</a>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-sm-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">CREAR VENTAS</h5>
+                                    <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
+                                    <a href="Crud_ventas/indexven.php" class="btn btn-primary">Ingresar</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title">ELIMINAR</h5>
-                                    <p class="card-text">Esta opción permite BORRAR un registro de la BDD</p>
-                                    <a href="delete.php" class="btn btn-primary">Borrar</a>
+                                    <h5 class="card-title">CREAR VINOS</h5>
+                                    <p class="card-text">Esta opción permite CREAR un registro en la BDD</p>
+                                    <a href="Crud_vinos/indexvin.php" class="btn btn-primary">Ingresar</a>
                                 </div>
                             </div>
                         </div>

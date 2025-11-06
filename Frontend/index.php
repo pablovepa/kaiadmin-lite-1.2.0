@@ -1,5 +1,5 @@
 
-<?php include("Backend/includes/header.php")?>
+<?php include("includesfe/header.php")?>
         <div class="container">
           <div class="page-inner">
             <div
@@ -622,4 +622,4 @@
           </div>
         </div>
 
-<?php include("Backend/includes/footer.php")?>
+<?php include("includesfe/footer.php")?>

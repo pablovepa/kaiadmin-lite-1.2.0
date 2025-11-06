@@ -1,26 +1,26 @@
-<?php include("includes/header.php")?>
-<?php include("db.php")?>
+<?php include("../includesbe/header.php"); ?>
+<?php include("../db.php")?>
 
 <div class ="card text-center">
     <div class="card-body">
-        <h1 class="card-title">CREAR REGISTRO</h1>
-        <p class="card-text">Ingrese los datos a continuación</p>
+        <h1 class="card-title">Registrar Usuario</h1>
+        <p class="card-text">Ingresar Datos</p>
 
         <form action="save.php" method="POST">
             <div class="form-group">
-            <input type="text" name="nombre" clas="form-control" placeholder="Ingrese Nombre" autofocus>
+            <input type="text" name="nombre" class="form-control" placeholder="Ingrese Nombre" autofocus>
             </div>
             <div class="form-group">
-            <input type="text" name="email" clas="form-control" placeholder="Ingrese email">
+            <input type="text" name="email" class="form-control" placeholder="Ingrese email">
             </div>
             <div class="form-group">
-            <input type="text" name="telefono" clas="form-control" placeholder="Ingrese telefono">
+            <input type="text" name="telefono" class="form-control" placeholder="Ingrese telefono">
             </div>
             <div class="form-group">
-            <input type="text" name="usuario" clas="form-control" placeholder="Ingrese Usuario">
+            <input type="text" name="usuario" class="form-control" placeholder="Ingrese Usuario">
             </div>
              <div class="form-group">
-            <input type="text" name="clave" clas="form-control" placeholder="Ingrese clave">
+            <input type="text" name="clave" class="form-control" placeholder="Ingrese clave">
             </div>            
             <div class="form-group">
             <label for="select">Tipos Usuarios</label>
@@ -40,4 +40,4 @@
     </div>
 </div>
 
-<?php include("includes/footer.php")?>
+<?php include("../includesbe/footer.php"); ?>
